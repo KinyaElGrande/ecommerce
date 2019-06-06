@@ -44,5 +44,5 @@ password:admin123
 
 
 **License** <a name="#license"></a>:
-Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/deniswawerungure/ecommerce/blob/master/LICENSE).
+Opensource and will always be free under the [MIT License](https://github.com/deniswawerungure/ecommerce/blob/master/LICENSE).
 

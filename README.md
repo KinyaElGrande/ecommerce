@@ -5,24 +5,45 @@
 ~~~
 
 ~~~
-2. php artisan migrate
+2. composer install
 ~~~
 
 ~~~
-3. php artisan db:seed
+3. cp .env.example  .env
+~~~
+
+edit 
+DB_CONNECTION=[YOUR_DATABASE_CONNECTION]
+DB_HOST=[YOUR_HOST]
+DB_PORT=[YOUR_PORT]
+DB_DATABASE=[YOUR_DB_NAME]
+DB_USERNAME=[YOUR_DB_USERNAME]
+DB_PASSWORD=[YOUR_DB_PASSORD]
+
+
+~~~
+4. php artisan key:generate
 ~~~
 
 ~~~
-4. php artisan vendor:publish
+5. php artisan migrate
+~~~
+
+~~~
+6. php artisan db:seed
+~~~
+
+~~~
+7. php artisan vendor:publish
 -> Press 0 and then press enter to publish all assets and configurations.
 ~~~
 
 ~~~
-5. php artisan storage:link
+8. php artisan storage:link
 ~~~
 
 ~~~
-6. composer dump-autoload
+9. composer dump-autoload
 ~~~
 
 

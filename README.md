@@ -65,6 +65,3 @@ password:admin123
 > *http(s)://example.com/customer/register*
 
 
-**License** <a name="#license"></a>:
-Opensource and will always be free under the [MIT License](https://github.com/deniswawerungure/ecommerce/blob/master/LICENSE).
-

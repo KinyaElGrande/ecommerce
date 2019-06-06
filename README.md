@@ -1,4 +1,4 @@
-##### Execute these commands below as in their order
+**Execute these commands below as in their order**
 
 ~~~
 1. git clone https://github.com/deniswawerungure/ecommerce.git
@@ -43,6 +43,6 @@ password:admin123
 > *http(s)://example.com/customer/register*
 
 
-##### License <a name="#license"></a>:
+**License** <a name="#license"></a>:
 Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/deniswawerungure/ecommerce/blob/master/LICENSE).
 

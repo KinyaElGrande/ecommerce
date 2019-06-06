@@ -12,14 +12,25 @@
 3. cp .env.example  .env
 ~~~
 
-edit 
+edit
+~~~
 DB_CONNECTION=[YOUR_DATABASE_CONNECTION]
+~~~
+~~~
 DB_HOST=[YOUR_HOST]
+~~~
+~~~
 DB_PORT=[YOUR_PORT]
+~~~
+~~~
 DB_DATABASE=[YOUR_DB_NAME]
+~~~
+~~~
 DB_USERNAME=[YOUR_DB_USERNAME]
+~~~
+~~~
 DB_PASSWORD=[YOUR_DB_PASSORD]
-
+~~~
 
 ~~~
 4. php artisan key:generate

@@ -1,7 +1,7 @@
 ##### Execute these commands below as in their order
 
 ~~~
-1. composer create-project bagisto/bagisto
+1. git clone 
 ~~~
 
 ~~~
@@ -44,5 +44,5 @@ password:admin123
 
 
 ### 5. License <a name="#license"></a>:
-Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/bagisto/bagisto/blob/master/LICENSE).
+Bagisto is a truly opensource E-Commerce framework which will always be free under the [MIT License](https://github.com/deniswawerungure/ecommerce/blob/master/LICENSE).
 

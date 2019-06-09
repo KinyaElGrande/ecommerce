@@ -1,4 +1,4 @@
-**Execute these commands below as in their order**
+**Execute these commands below as in their order** 
 
 ~~~
 1. git clone https://github.com/deniswawerungure/ecommerce.git
